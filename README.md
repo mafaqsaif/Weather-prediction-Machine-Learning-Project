@@ -12,7 +12,7 @@ To run this project, follow these steps:
 2️⃣ Install Jupyter Notebook
 3️⃣ Install Required Libraries
 4️⃣ Run Jupyter Notebook
-5️⃣ Copy and past provided regression and classification files in jupyter notebook
+5️⃣ Copy and past provided regression and classification files with provided dataSet in jupyter notebook
 6️⃣ Navigate to the notebook file (.ipynb) and execute the cells step by step.
 
 📊 Machine Learning Models Used
